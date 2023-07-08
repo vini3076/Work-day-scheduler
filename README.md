@@ -18,6 +18,6 @@ It also saves your events into local storage for future retrieval.
 
 ## Links
 
-[Github repository](https://github.com/vini3076/challenge4_coding_quiz)
+[Github repository](https://github.com/vini3076/Work-day-scheduler)
 
-[Deployed page](https://vini3076.github.io/challenge4_coding_quiz)
+[Deployed page](https://vini3076.github.io/Work-day-scheduler/)
